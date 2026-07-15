@@ -1,5 +1,4 @@
-# =============================================
-# DSM110 MIDTERM ASSIGNMENT - FINAL IMPROVED VERSION
+ FINAL IMPROVED VERSION
 # Intercountry Analysis of Eurostat Road Accidents Data
 # 
 # =============================================
